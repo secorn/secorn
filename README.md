@@ -1,10 +1,10 @@
 ## Hi 👋
 
-Ny name is Sebastian and I am a psychologist with 5 years of experience in applied research, academia and clinical practice. 
+- My name is Sebastian and I am a psychologist with 5 years of experience in applied research, academia and clinical practice. 
 
-Over time, I realized my true passion lies in working with data and statistical modeling. This led me to transition into data science. 📊 
+- Over time, I realized my true passion lies in working with data and statistical modeling. This led me to transition into data science. 📊 
 
-I recently completed Le Wagon's full-time 9-weeks data science bootcamp. Now, I come with a strong foundation to start working as a data professional and continue my own learning 🪴🎉
+- I recently completed Le Wagon's full-time 9-weeks data science bootcamp. Now, I come with a strong foundation to start working as a data professional and continue my own learning 🪴🎉
 
 Feel free to reach out to me! 😊
 
