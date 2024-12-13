@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- My name is Sebastian and I am a psychologist with 5 years of experience in applied research, academia and clinical practice. 
+- My name is Sebastian and I am a psychologist and data scientist with 5 years of experience in applied research, academia and clinical practice. 
 
 - Over time, I realized my true passion lies in working with data and statistical modeling. This led me to transition into data science. 📊 
 
